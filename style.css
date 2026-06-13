@@ -22,7 +22,7 @@
 .header {
   width: 100%;
   padding: 16px 8%;
-  background: linear-gradient(90deg, #0f172a, #1e3a8a, #0891b2);
+  background: linear-gradient(90deg, #903092, #441946, #280722);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -223,7 +223,7 @@ section {
 
 /* About */
 #about {
-  background: linear-gradient(135deg, #dbeafe, #e0f2fe, #ccfbf1);
+  background: linear-gradient(135deg, #5f4390, #192bba, #5535ad);
 }
 
 .about-box {
@@ -231,21 +231,21 @@ section {
   margin: auto;
   padding: 36px;
   border-radius: 24px;
-  background: linear-gradient(135deg, rgba(255,255,255,0.65), rgba(224,242,254,0.75));
+  background: linear-gradient(135deg, rgba(85, 122, 207, 0.65), rgba(49, 105, 105, 0.75));
   backdrop-filter: blur(14px);
   border: 1px solid rgba(255,255,255,0.55);
   box-shadow: 0 16px 45px rgba(15, 23, 42, 0.12);
 }
 
 .about-box p {
-  font-size: 17px;
+  font-size: 18px;
   text-align: center;
-  color: #334155;
+  color: #f4f6f8;
 }
 
 /* Skills */
 #skills {
-  background: linear-gradient(135deg, #e0f2fe, #dbeafe, #cffafe);
+  background: linear-gradient(135deg, #cad3d9, #8a9db7, #777b7b);
 }
 
 .skills-grid {
@@ -383,7 +383,7 @@ section {
 
 /* Contact */
 #contact {
-  background: linear-gradient(135deg, #022c22, #065f46, #10b981);
+  background: linear-gradient(135deg, #121c1a, #2b1676, #1e1f1f);
 }
 
 #contact .section-title {
